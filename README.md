@@ -1,17 +1,4 @@
-# Python-Projects
-Coleção de scripts e Programas em Python
-Um projeto em Python para estudos, experimentos e pequenos scripts úteis. Ideal para aprendizado e prática de programação em Python.
+Portfólio profissional de projetos em Python, desenvolvido com foco em boas práticas de programação e engenharia de software. Os projetos demonstram domínio de lógica de programação, programação orientada a objetos, scripts automatizados, desenvolvimento de aplicações, manipulação e análise de dados, integração com APIs, persistência de dados e criação de soluções escaláveis e manuteníveis, aplicáveis a diferentes contextos e áreas.
 
-## Funcionalidades
-
-- Scripts de automação simples
-- Exercícios de lógica e programação
-- Ferramentas de análise de dados (se aplicável)
-- Exemplos de uso de bibliotecas populares (opcional)
-
-## Instalação
-
-1. Clone este repositório:
-```bash
 git clone https://github.com/seu-usuario/python-project.git
 
